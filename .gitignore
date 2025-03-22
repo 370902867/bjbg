@@ -1,0 +1,23 @@
+# Maven build directory
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+.DS_Store?

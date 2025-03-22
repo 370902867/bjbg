@@ -8,10 +8,10 @@
 		<version>2.7.0</version>
 		<relativePath/>
 	</parent>
-	<groupId>com.example</groupId>
-	<artifactId>demo</artifactId>
+	<groupId>com.bj</groupId>
+	<artifactId>bjbg</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>bjbg</name>
 	<description>Book Management System</description>
 	<url/>
 	<licenses>
