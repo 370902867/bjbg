@@ -21,7 +21,7 @@ public class DemoApplication {
 			int port = webServerAppCtxt.getWebServer().getPort();
 			System.out.println("应用启动成功！");
 			System.out.println("本地访问地址: http://localhost:" + port+"/login.html");
-			System.out.println("外部访问地址: http://" + java.net.InetAddress.getLocalHost().getHostAddress() + ":" + port);
+			// System.out.println("外部访问地址: http://" + java.net.InetAddress.getLocalHost().getHostAddress() + ":" + port);
 		};
 	}
 
