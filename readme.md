@@ -3,6 +3,7 @@
 
 command + l    :  基于当前文件上下文的聊天窗口
 command + k    :  editor内编码
+command + j    :  打开下边栏
 
 command + shift + n :  打开一个新的cursor
 
