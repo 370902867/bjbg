@@ -4,6 +4,8 @@
 command + l    :  基于当前文件上下文的聊天窗口
 command + k    :  editor内编码
 
+command + shift + n :  打开一个新的cursor
+
 
 根据文件名搜索所有文件:        command + p
 搜索文件中的内容并替换所有：    command + shift + h
